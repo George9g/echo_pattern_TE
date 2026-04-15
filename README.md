@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # echo_pattern_TE
 
 Repositorio en R para comparar poses humanas extraídas con OpenPose.
